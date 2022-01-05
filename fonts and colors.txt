@@ -1,0 +1,8 @@
+55BC7E = green
+263238 = word
+D3E8E1=perform for operation hill
+CED3D9=enter you email
+ECF1F4=bg-color
+49A16C=get it now
+fonts:poppins
+55BC7E )-)
